@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="OrcamentoOficina.API/OrcamentoOficina.API.csproj" />
+  <Project Path="OrcamentoOficina.Application/OrcamentoOficina.Application.csproj" />
+  <Project Path="OrcamentoOficina.Domain/OrcamentoOficina.Domain.csproj" />
+  <Project Path="OrcamentoOficina.Infrastructure/OrcamentoOficina.Infrastructure.csproj" />
+  <Project Path="OrcamentoOficina.IntegrationTests/OrcamentoOficina.IntegrationTests.csproj" />
+  <Project Path="OrcamentoOficina.UnitTests/OrcamentoOficina.UnitTests.csproj" />
+</Solution>
